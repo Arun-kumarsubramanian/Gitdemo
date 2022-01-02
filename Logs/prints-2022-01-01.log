@@ -1,0 +1,8 @@
+13:51:07.309 [TestNG-tests-2] INFO  resources.base - Url Accessed
+13:51:11.966 [TestNG-tests-2] INFO  resources.base - NO THANKS BUTTON FOUND
+13:51:12.396 [TestNG-tests-2] INFO  resources.base - Browser Closed
+14:10:13.525 [TestNG-tests-3] INFO  resources.base - Url Accessed
+14:10:14.029 [TestNG-tests-2] INFO  resources.base - Url Accessed
+14:10:14.876 [TestNG-tests-1] INFO  resources.base - Url Accessed
+14:10:20.079 [TestNG-tests-3] INFO  resources.base - Browser Closed
+14:10:21.268 [TestNG-tests-1] INFO  resources.base - NO THANKS BUTTON FOUND

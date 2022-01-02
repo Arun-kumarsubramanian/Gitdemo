@@ -1,0 +1,8 @@
+22:50:01.130 [TestNG-tests-2] INFO  resources.base - Browser Closed
+22:50:47.267 [TestNG-tests-3] INFO  resources.base - Url Accessed
+22:50:47.488 [TestNG-tests-1] INFO  resources.base - Url Accessed
+22:50:47.525 [TestNG-tests-2] INFO  resources.base - Url Accessed
+22:50:53.257 [TestNG-tests-3] INFO  resources.base - Browser Closed
+22:50:53.428 [TestNG-tests-1] INFO  resources.base - NO THANKS BUTTON FOUND
+22:50:53.430 [TestNG-tests-1] FATAL resources.base - check
+22:50:53.483 [TestNG-tests-1] ERROR resources.base - FEATURED COURSES NOT FOUND

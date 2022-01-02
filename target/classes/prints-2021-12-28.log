@@ -1,0 +1,9 @@
+22:55:59.728 [main] INFO  resources.base - Browser Closed
+22:56:04.863 [main] INFO  resources.base - Url Accessed
+22:56:10.041 [main] INFO  resources.base - Browser Closed
+23:53:28.400 [main] INFO  resources.base - Url Accessed
+23:53:31.986 [main] INFO  resources.base - NO THANKS BUTTON FOUND
+23:53:32.036 [main] FATAL resources.base - check
+23:53:32.073 [main] ERROR resources.base - FEATURED COURSES NOT FOUND
+23:53:32.150 [main] INFO  resources.base - Browser Closed
+23:53:41.526 [main] INFO  resources.base - Url Accessed

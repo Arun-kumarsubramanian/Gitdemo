@@ -1,0 +1,8 @@
+14:10:21.273 [TestNG-tests-1] FATAL resources.base - check
+14:10:21.336 [TestNG-tests-1] ERROR resources.base - FEATURED COURSES NOT FOUND
+14:10:21.423 [TestNG-tests-1] INFO  resources.base - Browser Closed
+14:10:22.544 [TestNG-tests-2] INFO  resources.base - NO THANKS BUTTON FOUND
+14:10:23.019 [TestNG-tests-2] INFO  resources.base - Browser Closed
+14:10:29.530 [TestNG-tests-2] INFO  resources.base - Url Accessed
+14:10:38.842 [TestNG-tests-2] INFO  resources.base - NO THANKS BUTTON FOUND
+14:10:39.307 [TestNG-tests-2] INFO  resources.base - Browser Closed
